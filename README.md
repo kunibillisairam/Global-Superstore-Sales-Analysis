@@ -40,7 +40,7 @@ Global-Superstore-Sales-Analysis/
 ├── PowerBI/
 │   └── README.md                  # Power BI dashboard files and screenshots
 │
-├── SalesAnalysis.ipynb            # Jupyter Notebook with full EDA & analysis workflow
+├── Global_Superstore_Analysis.ipynb  # Jupyter Notebook with full EDA & analysis workflow
 ├── SuperStoreOrders.csv           # Raw dataset
 ├── SuperStor_Cleaned_data1.csv    # Preprocessed and cleaned dataset
 ├── requirements.txt               # Required Python packages
